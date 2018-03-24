@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.app {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.app > section {
+    margin: 60px;
+}
+
+
